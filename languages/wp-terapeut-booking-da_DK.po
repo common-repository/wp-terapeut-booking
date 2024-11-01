@@ -1,0 +1,126 @@
+# Copyright (C) 2022 Terapeut Booking
+# This file is distributed under the same license as the WP Terapeut Booking plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Terapeut Booking 3.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-terapeut-"
+"bookingLast-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2023-01-03 15:42+0100\n"
+"PO-Revision-Date: 2023-01-03 16:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: wp-terapeut-booking\n"
+
+#. Plugin Name of the plugin
+msgid "WP Terapeut Booking"
+msgstr "WP Terapeut Booking"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/wp-terapeut-booking/"
+msgstr "http://wordpress.org/plugins/wp-terapeut-booking/"
+
+#. Description of the plugin
+msgid ""
+"This plugin makes it possible to place a link to your Online Booking page "
+"anywhere on your website by inserting [wpterapeut]."
+msgstr ""
+"Dette plugin gør det muligt at placere et link til din Online Booking-side "
+"hvor som helst på din hjemmeside ved at indsætte [wpterapeut]."
+
+#. Author of the plugin
+msgid "Terapeut Booking"
+msgstr "Terapeut Booking"
+
+#. Author URI of the plugin
+msgid "http://www.terapeutbooking.dk"
+msgstr "http://www.terapeutbooking.dk"
+
+#: wp-terapeut-booking.php:65
+msgid "EasyPractice Plugin Settings"
+msgstr "Indstillinger for Terapeut Booking-plugin"
+
+#: wp-terapeut-booking.php:68
+msgid "EasyPractice.."
+msgstr "Terapeut Booking.."
+
+#: wp-terapeut-booking.php:96
+msgid "Settings saved"
+msgstr "Indstillinger gemt"
+
+#: wp-terapeut-booking.php:103
+msgid "EasyPractice"
+msgstr "Terapeut Booking"
+
+#: wp-terapeut-booking.php:105
+msgid ""
+"WP EasyPractice is a plugin that allows you to conveniently link your <a "
+"href=\"https://easypractice.net\">EasyPractice</a> Online Booking page to "
+"your WordPress site."
+msgstr ""
+"WP Terapeut Booking er et plugin, der giver dig mulighed for nemt at linke "
+"din <a href=\\\"https://terapeutbooking.dk\\\">Terapeut Booking</a> Online "
+"Booking-side til din WordPress-hjemmeside."
+
+#: wp-terapeut-booking.php:108
+msgid ""
+"The plugin is now active. Now when you insert [wpterapeut] on a page, the "
+"plugin will replace [wpterapeut] with a link to your Online Booking page."
+msgstr ""
+"Plugin'et er nu aktivt. Når du nu indsætter [wpterapeut] på en side, vil "
+"plugin'et erstatte [wpterapeut] med et link til din Online Booking-side."
+
+#: wp-terapeut-booking.php:113
+msgid ""
+"When the user clicks on the link, they will be shown your Online Booking "
+"site in a nice form."
+msgstr ""
+"Når brugeren klikker på linket, vil de få vist din Online Booking-side i en "
+"flot formular."
+
+#: wp-terapeut-booking.php:120
+msgid "Link text"
+msgstr "Linktekst"
+
+#: wp-terapeut-booking.php:121
+msgid ""
+"Insert the text to be used as a link to the booking form. For example, "
+"\"Click here to book an appointment\"."
+msgstr ""
+"Indsæt den tekst, der skal bruges som et link til bookingformularen. F.eks. "
+"\"Klik her for at booke en aftale\"."
+
+#: wp-terapeut-booking.php:122
+msgid "Click here to book an appointment."
+msgstr "Klik her for at booke en aftale."
+
+#: wp-terapeut-booking.php:124
+msgid "Address"
+msgstr "Adresse"
+
+#: wp-terapeut-booking.php:125
+msgid ""
+"Insert the last part of the address for your booking form exactly as it "
+"appears in EasyPractice."
+msgstr ""
+"Indsæt den sidste del af URL-linket til din bookingformular præcis som den "
+"vises i Terapeut Booking."
+
+#: wp-terapeut-booking.php:126
+msgid ""
+"For example, if your address looks like this <span style=\"font-style:italic;"
+"\">https://system.easypractice.net/book/terapeuten-bo</span> you must insert "
+"<span style=\"font-style:italic\">terapeuten-bo</span> below."
+msgstr ""
+"For example, if your address looks like this <span style=\"font-style:italic;"
+"\">https://system.easypractice.net/book/terapeuten-bo</span> skal du "
+"indsætte <span style=\"font-style:italic\">terapeuten-bo</span> nedenunder."
+
+#: wp-terapeut-booking.php:128
+msgid "Insert your own link here."
+msgstr "Indsæt dit eget link her."
